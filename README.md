@@ -16,11 +16,11 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=SainTurDaY27&&theme=tokyonight"></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=SainTurDaY27&theme=tokyonight" alt="mystreak"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SainTurDaY27&theme=tokyonight" /></p>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Some SaintRock here***
-<p align="center"><img src="https://c.tenor.com/9wvlPWT79YgAAAAC/saint-rock.gif" height="300" width="500"></p>
-(Just kidding😄)
+<!-- 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
+<!-- # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Some SaintRock here*** -->
+<!-- <p align="center"><img src="https://c.tenor.com/9wvlPWT79YgAAAAC/saint-rock.gif" height="300" width="500"></p>
+(Just kidding😄) -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 Last edit on: 10/4/2021
