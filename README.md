@@ -3,10 +3,12 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Hi, I'm SainTurDaY27 👋***
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SainTurDaY27" alt="SainTurDaY27" /> </p>
 <p align="left"> <img src="https://img.shields.io/github/followers/SainTurDaY27?label=Follow&style=social" alt="SainTurDaY27" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/-Vinsaint Panuwat-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 
 - 🌱 I’m currently studying second year in ***Software and Knowledge Engineering at Kasetsart University***.
-- 📫 How to reach me: ***Facebook***: <a href="https://www.facebook.com/nong.vinsaint/"><img src="https://img.shields.io/badge/-Vinsaint Panuwat-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+- 📫 How to reach me: ***Facebook***: 
+<!-- <a href="https://www.facebook.com/nong.vinsaint/"></a> -->
 - 😄 Pronouns: ***He/His***
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
