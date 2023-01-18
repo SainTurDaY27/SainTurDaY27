@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://img.shields.io/badge/-Vinsaint Panuwat-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 
-- 🌱 I’m currently studying second year in ***Software and Knowledge Engineering at Kasetsart University***.
+- 🌱 I’m currently studying third year in ***Software and Knowledge Engineering at Kasetsart University***.
 - 📫 How to reach me: ***Facebook***: 
 <!-- <a href="https://www.facebook.com/nong.vinsaint/"></a> -->
 - 😄 Pronouns: ***He/His***
