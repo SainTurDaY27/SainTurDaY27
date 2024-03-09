@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://img.shields.io/github/followers/SainTurDaY27?label=Follow&style=social" alt="SainTurDaY27" /> </p>
 
 
-- 🌱 I’m currently studying third year in ***Software and Knowledge Engineering at Kasetsart University***.
+- 🌱 I’m currently studying fourth year in ***Software and Knowledge Engineering at Kasetsart University***.
 <!-- - 📫 How to reach me: ***Facebook***:  -->
 <a href="https://www.facebook.com/nong.vinsaint/"></a>
 - 😄 Pronouns: ***He/His***
