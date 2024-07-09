@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://img.shields.io/github/followers/SainTurDaY27?label=Follow&style=social" alt="SainTurDaY27" /> </p>
 
 
-- 🌱 I’m currently studying fourth year in ***Software and Knowledge Engineering at Kasetsart University***.
-<!-- - 📫 How to reach me: ***Facebook***:  -->
-<a href="https://www.facebook.com/nong.vinsaint/"></a>
+- 🌱 I graduated with a degree in ***Software Engineering*** from ***Kasetsart University***.
+<!-- - 📫 How to reach me: ***LinkedIn*** -->
+<!-- <a href="https://th.linkedin.com/in/panuwat-kongkaew"></a> -->
 - 😄 Pronouns: ***He/His***
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -23,4 +23,4 @@
 (Just kidding😄) -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-Last edit on: 02/06/2023
+Last edit on: 06/07/2024
