@@ -1,26 +1,30 @@
-# Hi, I'm SainTurDaY27 👋  
-Welcome to my GitHub! 🚀  
-Let's build and create something awesome together.🌟   
+# 👋 Hi, I'm SainTurDaY27  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SainTurDaY27&color=blue" alt="Profile Views" /> </p>  
-<p align="left"> <img src="https://img.shields.io/github/followers/SainTurDaY27?label=Followers&style=social" alt="GitHub Followers" /> </p>  
+Welcome to my GitHub! 🚀  
+Let's build and create something awesome together. 🌟  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SainTurDaY27&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SainTurDaY27?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 ---
 
 ## 🌟 About Me  
 
-- 🎓 Graduated with a degree in **Software Engineering** from **Kasetsart University**.  
-- 😄 Pronouns: **He/His**.  
-- ✨ Always learning and exploring new technologies.  
-- 🎮 Love playing games!
+- 🎓 Graduated in **Software Engineering** from **Kasetsart University**  
+- 🙋‍♂️ Pronouns: **He/Him**  
+- 📚 Passionate about learning and exploring new technologies  
+- 🎮 Gamer at heart — always up for a good game!
 
 ---
 
 ## 🛠️ Tech Stack  
-Here are some tools and technologies I work with:  
+
+Here are some tools and technologies I work with:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
@@ -32,7 +36,7 @@ Here are some tools and technologies I work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-</div>  
+</div>
 
 ---
 
@@ -46,14 +50,55 @@ Here are some tools and technologies I work with:
 
 ---
 
-## 📈 GitHub Stats  
+## 🎯 Career Goals
 
+I’m currently focused on growing as a **full-stack developer**, exploring modern frameworks, and contributing to impactful software and game projects.  
+I’m open to new opportunities in **web development**, **game development**, and **software engineering** — especially roles where I can learn, build, and collaborate with great teams.
+
+If you’re working on something exciting or hiring — feel free to reach out!
+
+---
+
+## 🎮 Currently Playing
+
+- Honkai: Star Rail  
+- Zenless Zone Zero  
+- Valorant 
+
+---
+
+## 📊 GitHub Insights
+
+<!-- Trophies -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SainTurDaY27&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SainTurDaY27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SainTurDaY27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SainTurDaY27&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<!-- Stats in a single row -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=SainTurDaY27&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SainTurDaY27&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SainTurDaY27&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-_Last edit on: 12/24/2024_  
+## 🗓️ Contribution Graph
+
+[![SainTurDaY27's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SainTurDaY27&theme=github-compact&hide_border=true)](https://github.com/SainTurDaY27)
+
+---
+
+<p align="center"><i>Last updated on: 07/04/2025</i></p>
