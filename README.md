@@ -23,7 +23,7 @@ Let's build and create something awesome together. 🌟
 
 Here are some tools and technologies I work with:
 
-<div align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
